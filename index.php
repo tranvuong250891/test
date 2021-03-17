@@ -1,3 +1,5 @@
-include "index.html";
+<?php
+  include "index.html";
+?>
 
 <h1>hello work</h1>
